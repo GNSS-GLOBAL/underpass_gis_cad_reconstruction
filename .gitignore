@@ -1,0 +1,13 @@
+# Point clouds retained outside version control
+*.laz
+*.las
+
+# FreeCAD backups
+*.FCBak
+*.FCStd1
+
+# QGIS backups and temporary database files
+*.qgz~
+*.qgs~
+*.gpkg-wal
+*.gpkg-shm
