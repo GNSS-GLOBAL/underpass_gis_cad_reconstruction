@@ -4,6 +4,10 @@ Reconstructed seven 3D reference surfaces from supplied survey linework, using Q
 
 ![Completed reference-surface model: gray walls and blue footpaths](deliverables/underpass_3d_overview.png)
 
+[![Underpass reference drawing with plan and isometric views at 1:500](deliverables/56th_Street_Underpass_Reference_Surfaces.png)](deliverables/56th_Street_Underpass_Reference_Surfaces.pdf)
+
+*Plan and isometric reference drawing at 1:500. Click the drawing to open the PDF.*
+
 ## Deliverables
 
 | Deliverable | Contents |
